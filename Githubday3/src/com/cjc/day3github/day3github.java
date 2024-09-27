@@ -5,7 +5,9 @@ public static void main(String[]args)
 {
 	System.out.println("Welcome to github");
 }
-
+public void pragati(){
+	
+}
 public void m1()
 {
 	System.out.println("Integrate gits to jenkins");
