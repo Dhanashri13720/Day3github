@@ -10,4 +10,8 @@ public void m1()
 {
 	System.out.println("Integrate gits to jenkins");
 }
+	public void MyMethod()
+	{
+		System.out.println(""Its me Pooja);
+	}
 }
